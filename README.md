@@ -1,3 +1,3 @@
 # Shannon-Fano Coder
 
-Blah, blah
+Blah, blah, blah
